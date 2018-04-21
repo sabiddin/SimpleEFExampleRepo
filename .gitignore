@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/SimpleEFExample/.vs
+/SimpleEFExample/SimpleEFExample/bin
+/SimpleEFExample/SimpleEFExample/obj/Debug
+/SimpleEFExample/Northwind.Database/obj/Debug
